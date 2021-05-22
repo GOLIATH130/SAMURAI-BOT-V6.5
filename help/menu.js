@@ -57,11 +57,6 @@ const menu = (tanggal, jam, pushname, sender, prem_, Lxa, prefix, user, uptime, 
 ▢ Mhankbarbar
 ▢ All Owners Bot
 ──────────────────────
-Made With ❤️
-© *Dev & Owner*`
-
-else if (!isGroup) return`▢ ${tanggal()}
-▢ Jam ${jam} (Asia/Jakarta)
 
   ≡ *INFORMASI*
 ┌───⊷ *USER* ⊶
